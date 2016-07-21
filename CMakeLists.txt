@@ -5,7 +5,7 @@ project (ActivePixelLearn)
 
    include_directories (Classifier)
    include_directories (SemiSupervised)
-   include_directories (Utilities)https://www.dropbox.com/
+   include_directories (Utilities)
    include_directories (Watershed)
 
 #    link_directories (/groups/flyem/proj/cluster/toufiq/miniconda/envs/env-toufiq/lib) 
